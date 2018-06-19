@@ -72,7 +72,6 @@ WIN_COMBINATIONS.detect do |position|
   else
     false
   end
-end 
 end
 
 def full?(board)
